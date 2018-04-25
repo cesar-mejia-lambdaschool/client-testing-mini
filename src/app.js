@@ -1,4 +1,4 @@
-const apples = ['Gala', 'Red Delicious', 'Fuji', 'Cortland'];
+const apples = ['Gala', 'Red Delicious', 'Fuji', 'Cortland']
 
 const Ben = {
   favBand: 'Beastie Boys',
@@ -6,7 +6,7 @@ const Ben = {
   favBook: 'Catcher in the Rye',
   favColor: 'Blue Green',
   favActivity: 'Coding'
-};
+}
 
 const Sean = {
   favBand: 'Metallica',
@@ -14,7 +14,7 @@ const Sean = {
   favBook: 'Life of Pi',
   favColor: 'Green',
   favActivity: 'Surfing'
-};
+}
 
 const Ryan = {
   favBand: 'Guster',
@@ -22,7 +22,7 @@ const Ryan = {
   favBook: 'The Giver',
   favColor: 'Silver',
   favActivity: 'Mountain Biking'
-};
+}
 
 const Austen = {
   favBand: 'Third Eye Blind',
@@ -30,7 +30,7 @@ const Austen = {
   favBook: '50 Shades of Grey',
   favColor: 'Yellow',
   favActivity: 'Comedy Clubs'
-};
+}
 
 const Ivan = {
   favBand: 'Smashing Pumpkins',
@@ -38,7 +38,7 @@ const Ivan = {
   favBook: 'The Puppy who Lost His Way',
   favColor: 'Red',
   favActivity: 'Rock Climbing'
-};
+}
 
 module.exports = {
   apples,
@@ -47,4 +47,4 @@ module.exports = {
   Ryan,
   Austen,
   Ivan
-};
+}
