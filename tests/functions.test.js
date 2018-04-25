@@ -7,11 +7,11 @@ chai.use(sinonChai)
 
 describe('functions', () => {
   let testArray = []
-  beforeEach = () => {
+  const beforeEach = () => {
     testArray = [1, 2, 3, 4, 'eggs', 'cheese', 'milk']
   }
 
-  afterEach = () => {
+  const afterEach = () => {
     testArray = []
   }
 
